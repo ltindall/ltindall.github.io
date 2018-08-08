@@ -11,22 +11,30 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* B.S. in Computer Engineering, University of California, San Diego, 2017
+* M.S. in Intelligent Systems, Robotics and Controls, University of California, San Diego, expected 2018
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2018: Machine learning intern
+  * Lab 41
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* 2017-2018: Teaching Assistant
+  * UCSD ECE 
+
+* Summer 2017: Software engineering intern
+  * Northrop Grumman
+
+* Summer 2016: Software engineering intern 
+  * Yahoo!
+
+* 2013-2017: System Administrator
+  * Center for Research in Biological Systems, UCSD
+
+* 2012-2015: Robotics Instructor
+  * Bellarmine College Preparatory
+
+<!--
 Skills
 ======
 * Skill 1
@@ -35,6 +43,7 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
+-->
 
 Publications
 ======
@@ -42,18 +51,20 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+<!--
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+-->
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+<!--
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
