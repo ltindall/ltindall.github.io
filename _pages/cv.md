@@ -9,13 +9,19 @@ redirect_from:
 
 {% include base_path %}
 
+
 Education
 ======
 * B.S. in Computer Engineering, University of California, San Diego, 2017
-* M.S. in Intelligent Systems, Robotics and Controls, University of California, San Diego, expected 2018
+* M.S. in Intelligent Systems, Robotics and Controls, University of California, San Diego, 2019
+* PhD in Intelligent Systems, Robotics and Controls, University of California, San Diego, in progress
 
 Work experience
+
 ======
+* 2018 - present: Associate Data Scientist 
+  * Lab 41
+
 * Summer 2018: Machine learning intern
   * Lab 41
 
@@ -44,6 +50,8 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 -->
+
+
 
 Publications
 ======

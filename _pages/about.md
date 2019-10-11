@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Lucas. I'm currently working as an intern at [Lab 41](https://www.lab41.org/) where I conduct research related to secure machine learning. I am also finishing my MS degree at UCSD where I study intelligent systems, robotics and controls in the Electrical and Computer Engineering department. 
+I am a PhD student at UCSD in the ECE department, working with Professor Truong Nguyen. I am also an Associate Data Scientist at [Lab 41](https://www.lab41.org/). My research is currently focused on 3D machine learning. Specifically I am focusing on indoor scene understanding and its applications in autonomous agents. I am also working on a reinforcement learning project focused on animal cognition. In the past I have also done work on adversarial machine learning for privacy and
+security as well as biomedical image segmentation. 
 
 

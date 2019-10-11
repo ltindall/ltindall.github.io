@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Lucas Tindall"
 title_separator          : "-"
 name                     : &name "Lucas Tindall"
-description              : &description "Machine learning researcher"
+description              : &description "PhD student, Data Scientist"
 url                      : https://ltindall.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ltindall/ltindall.github.io"
@@ -81,7 +81,7 @@ analytics:
 author:
   name             : "Lucas Tindall"
   avatar           : "ljt.jpg"
-  bio              : "MS student at UCSD"
+  bio              : "PhD student at UCSD"
   location         : "San Diego, CA"
   employer         : "Lab 41"
   googlescholar    : 
