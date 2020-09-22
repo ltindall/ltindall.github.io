@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at UCSD in the ECE department, working with Professor Truong Nguyen. I am also an Associate Data Scientist at [Lab 41](https://www.lab41.org/). My research is currently focused on 3D machine learning. Specifically I am focusing on indoor scene understanding and its applications in autonomous agents. I am also working on a reinforcement learning project focused on animal cognition. In the past I have also done work on adversarial machine learning for privacy and
-security as well as biomedical image segmentation. 
+I am a PhD student at UCSD in the ECE department, working with Professor Truong Nguyen. I am also an Associate Data Scientist at [IQT Labs](https://www.iqt.org/labs/). My research is focused on applying reinforcement learning to multi agent systems and data selection. In the past I have worked on adversarial attacks on neural networks and biomedical image segmentation. 
 
 
