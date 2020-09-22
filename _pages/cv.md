@@ -16,11 +16,10 @@ Education
 * M.S. in Intelligent Systems, Robotics and Controls, University of California, San Diego, 2019
 * PhD in Intelligent Systems, Robotics and Controls, University of California, San Diego, in progress
 
-Work experience
-
+Experience
 ======
 * 2018 - present: Associate Data Scientist 
-  * Lab 41
+  * IQT Labs
 
 * Summer 2018: Machine learning intern
   * Lab 41
@@ -69,9 +68,13 @@ Talks
 
 Teaching
 ======
+* ECE 15, UCSD
+* ECE 25, UCSD
+<!--
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+--> 
 
 <!--
 Service and leadership
